@@ -1,0 +1,15 @@
+{
+  "name": "bevacqua",
+  "version": "1.0.0",
+  "description": "Nicolas Bevacqua",
+  "author": "Nicolas Bevacqua",
+  "main": "./index.json",
+  "scripts": {
+    "postinstall": "cat index.json"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "license": "MIT"
+}
